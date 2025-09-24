@@ -1,0 +1,4 @@
+Hello_from_fd
+Hello_from_dup
+Hello_from_dup2
+Hello_from_fcntl
